@@ -1,0 +1,17 @@
+{
+  "overrides": [
+    {
+      "files": "*.jsx",
+      "options": {
+        "jsxBracketSameLine": true,
+        "jsxSingleQuote": true,
+        "printWidth": 80,
+        "proseWrap": "preserve",
+        "semi": false,
+        "singleQuote": true,
+        "tabWidth": 2,
+        "trailingComma": "es5"
+      }
+    }
+  ]
+}
